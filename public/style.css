@@ -1,0 +1,41 @@
+body {
+
+    background-origin: border-box;
+
+    background-size: cover;
+    filter: brightness(1);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#app {
+    min-height: 98vh;
+
+
+}
+
+h1,
+h2 {
+    text-align: center;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 5em;
+
+}
+
+.black {
+    color: white;
+}
+
+.grey {
+    color: rgb(73, 73, 73);
+}
+
+.location {
+    position: absolute;
+    bottom: 1em;
+  
